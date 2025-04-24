@@ -29,11 +29,13 @@ I also created new features such as the interactions between each feature like R
 #### Results
 Currently, I mainly worked with the baseline model, which was Random Forest. With the RandomForest model, I got decent results, with low MSE, RMSE, MAE and a high r2 score at above 90%.
 
-Metric | Train | Test
-MSE | 5.3829 | 13.4837
-RMSE | 0.5837 | 8.3847
-R-squared | 0.9482 | 0.9073
-MAE | 0.7817 | 7.3829
+| Metric      | Train   | Test     |
+|-------------|---------|----------|
+| MSE         | 5.3829  | 13.4837  |
+| RMSE        | 0.5837  | 8.3847   |
+| R-squared   | 0.9482  | 0.9073   |
+| MAE         | 0.7817  | 7.3829   |
+
 
 
 #### Next steps
